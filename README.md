@@ -26,6 +26,13 @@ pip install numpy pandas scikit-learn
 - Predictions are made on the testing data using the trained model.
 - The model is evaluated using the R-squared score.
 
+## Video
+
+
+https://github.com/Smit-Zaveri/PRODIGY_ML_01/assets/104667864/e316e27f-df3a-422a-8f47-21026244c7d6
+
+
+
 ## Output
 The script prints the R-squared score, which indicates the proportion of the variance in the dependent variable (house prices) that is predictable from the independent variables (selected features). Additionally, it displays a DataFrame containing the actual and predicted house prices for the testing data.
 
